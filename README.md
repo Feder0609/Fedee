@@ -22,4 +22,4 @@ Media de 7.27
 *Gmail:feder0609@gmail.com
 *Discord:fedee8686
 ## 7. Fotografia
-![Volei)](https://github.com/user-attachments/assets/2e9098b6-d910-4c6f-a83c-7f7369b1c5ad)<img src="https://github.com/user-attachments/assets/2e9098b6-d910-4c6f-a83c-7f7369b1c5ad" width="48">
+<img src="https://github.com/user-attachments/assets/2e9098b6-d910-4c6f-a83c-7f7369b1c5ad" width="200">
