@@ -25,4 +25,4 @@ Media de 7.27
 <img src="https://github.com/user-attachments/assets/2e9098b6-d910-4c6f-a83c-7f7369b1c5ad" width="300">
 
 ## 8. Extra
-[Extra.md](https://github.com/Feder0609/Fedee/edit/main/EXTRA.md)
+[Extra.md](https://github.com/Feder0609/Fedee/blob/main/EXTRA.md)
