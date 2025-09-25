@@ -23,6 +23,6 @@ Media de 7.27
 *Discord:fedee8686
 ## 7. Fotografia
 <img src="https://github.com/user-attachments/assets/2e9098b6-d910-4c6f-a83c-7f7369b1c5ad" width="300">
-## 8. Extra
 
+## 8. Extra
 [Extra.md](ttps://github.com/Feder0609/Fedee/edit/main/EXTRA.md)
